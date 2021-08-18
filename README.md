@@ -13,7 +13,7 @@ This is a form validation system project. we will upload all resource here step 
 
 
 ## Reference Code
-```
+```php
 <?php
   if(isset($_POST['submit'])){
      $name = $_POST['name'];
